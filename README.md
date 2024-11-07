@@ -1,4 +1,4 @@
-<img src="sample/sample.png" width="500"/>
+<img src="sample/sample.png" width="800"/>
 
 ## Road Lane Detection Tool
 
