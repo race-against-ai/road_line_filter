@@ -17,7 +17,13 @@ int max_pixel_count_track_width = 500;
 
     Clone the repository.
     Set up the required dependencies.
-    Run the program, and use the interface to adjust the lane width and line thickness.
+
+    ```
+    mkdir build
+    cd build cmake ../
+    make 
+    ./CameraProcessorApp
+    ```
 
 # Requirements
 
