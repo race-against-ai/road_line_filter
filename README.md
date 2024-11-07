@@ -15,17 +15,17 @@ int max_pixel_count_track_width = 500;
 
 # Getting Started
 
-    Clone the repository.
-    Set up the required dependencies.
+Clone the repository.
+Set up the required dependencies.
 
-    ```
-    mkdir build
-    cd build cmake ../
-    make 
-    ./CameraProcessorApp
-    ```
+```
+mkdir build
+cd build cmake ../
+make 
+./CameraProcessorApp
+```
 
 # Requirements
 
-    Camera input (USB or other compatible sources)
-    OpenCV
+Camera input (USB or other compatible sources)
+OpenCV
